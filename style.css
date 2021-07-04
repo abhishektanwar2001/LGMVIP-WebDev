@@ -541,35 +541,7 @@ section .title::after{
   color: crimson;
   background: none;
 }
-.contact_i {	
-display: inline-block;
-	float: left;
-	padding: 15px 23px;
-	align-items: center;
-  color: teal;
-  font-size: 2rem;	
-	
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
-  margin-bottom: 0rem;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
-  align-items: center;
-  -webkit-box-orient: vertical;
-  -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
-}
-.contact_i:hover {
-  color: #800080;
-  -webkit-filter: drop-shadow(0 0.5rem 0.5rem);
-          filter: drop-shadow(0 0.5rem 0.5rem);
-}
+
 /* footer section styling */
 
 footer {
